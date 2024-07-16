@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oterivant.github.io/sitemap
+Sitemap: https://oterivant.github.io/app/sitemap
+Sitemap: https://oterivant.github.io/assets/sitemap
+Sitemap: https://oterivant.github.io/css/sitemap
+Sitemap: https://oterivant.github.io/includes/sitemap
+Sitemap: https://oterivant.github.io/item/sitemap
+Sitemap: https://oterivant.github.io/src/sitemap
